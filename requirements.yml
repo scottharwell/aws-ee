@@ -1,0 +1,6 @@
+---
+collections:
+  - amazon.cloud
+  - amazon.aws
+  - awx.awx
+  - community.aws
